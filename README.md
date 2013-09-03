@@ -19,6 +19,7 @@ Tasks
       - A **faster** way to download the `.iso` is to use [64-bit PC (AMD64) server install image TORRENT](http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso.torrent)
 - [ ] Create a new virtual machine for Ubuntu Server 13.04 in Virtual Box
       - Name 'Stat157' and select Linux, Ubuntu 64-bit from drop down menus
+      - http://www.tuaw.com/2009/09/07/how-to-set-up-ubuntu-linux-on-a-mac-its-easy-and-free/
       ![selecting names and drop down menu items](https://raw.github.com/lauraccunningham/homework-01/master/images/1%20creatingComputerInVirtualBox.stat157.png)
       - Make sure to be aware of your individual machine's hard drive space
             - For Mac Users:  Finder > Preferences
