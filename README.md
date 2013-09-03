@@ -1,8 +1,7 @@
 homework-01
 
-Theresa Andrasfay
 ===========
-
+Theresa Andrasfay
 Due September 03, 2013
 
 Here are the next steps for the homework assignment that you should complete by Tuesday's class so that everyone is on the same page with virtualbox and Ubuntu Server installed.
