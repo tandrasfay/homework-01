@@ -1,4 +1,6 @@
 homework-01
+
+Theresa Andrasfay
 ===========
 
 Due September 03, 2013
@@ -10,7 +12,7 @@ Much thanks to Laura Cunningham who helped me create this assignment today.
 Tasks
 -----
 
-- [ ] Download VirtualBox https://www.virtualbox.org/wiki/Downloads
+- [x] Download VirtualBox https://www.virtualbox.org/wiki/Downloads
 - [ ] Install VirtualBox
 - [ ] Download `.iso` for Ubuntu Server 13.04 (Raring Ringtail) http://releases.ubuntu.com/raring/
       **NOTE: Even though you may be on a Mac, you should download the 64-bit PC (AMD64) version for running inside VirtualBox.**
